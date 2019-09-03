@@ -14,10 +14,10 @@ Draws from the posterior are located in `chains/res_*_U[-1,1]_49-53_samples.npy`
 
 ## Credits
 
-If you use the posterior draws please cite [Mason+19]() and also the following papers which contain constraints used in the likelihood:
+If you use the posterior draws please cite [Mason+19](https://ui.adsabs.harvard.edu/abs/2019arXiv190711332M/abstract) and also the following papers which contain constraints used in the likelihood:
 
 - [Planck 2018](https://ui.adsabs.harvard.edu/abs/2018arXiv180706209P/abstract) CMB optical depth
-- Galaxy Lyman-alpha EW evolution ([Mason+18](https://ui.adsabs.harvard.edu/abs/2018ApJ...856....2M/abstract),[+19](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.3947M/abstract), [Hoag+19](https://ui.adsabs.harvard.edu/abs/2019arXiv190109001H/abstract))
+- Galaxy Lyman-alpha EW evolution ([Mason+18](https://ui.adsabs.harvard.edu/abs/2018ApJ...856....2M/abstract),[+19a](https://ui.adsabs.harvard.edu/abs/2019MNRAS.485.3947M/abstract), [Hoag+19](https://ui.adsabs.harvard.edu/abs/2019arXiv190109001H/abstract))
 - Lyman-alpha emitter clustering ([Sobacchi & Mesinger 2015](https://ui.adsabs.harvard.edu/abs/2015MNRAS.453.1843S/abstract))
 - QSO Lyman-alpha damping wings ([Davies+18](https://ui.adsabs.harvard.edu/abs/2018ApJ...864..142D/abstract), [Greig+19](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.5094G/abstract))
 
